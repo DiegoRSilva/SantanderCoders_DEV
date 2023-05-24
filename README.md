@@ -2,4 +2,4 @@
 
 ## Gravando mudanças no repositório
 * comando git push
-* uma pessoa da equipe, fez uma alteração.
+* uma pessoa da equipe, fez uma alteração. git pull
