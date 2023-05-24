@@ -4,3 +4,4 @@
 * comando git push
 * uma pessoa da equipe, fez uma alteração. git pull
 * comando git fetch
+* o Correto é main e não master
